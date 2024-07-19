@@ -6,10 +6,10 @@
 * @version 1.4
 * @donate https://ko-fi.com/nyria
 */
-@import url("https://endcod3r.github.io/TokyoPichu/main.css");
+@import url("https://nyri4.github.io/LilyPichu/main.css");
 
 /* Remove decorations */
-@import url("https://endcod3r.github.io/TokyoPichu/stuff/overlay.css");
+@import url("https://nyri4.github.io/LilyPichu/stuff/overlay.css");
 
 :root {
   /* --- User variables --- */
@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: var(--background-secondary-alt);
+  --background-tertiary-alt: #ffc7d4;
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
@@ -28,30 +28,30 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #b1bae6;
-  --header-primary: #565f89;
-  --interactive-normal: #5f647e;
-  --channels-default: #949ba4;
+  --text-normal: #f8e1e5;
+  --header-primary: #f8e1e5;
+  --interactive-normal: #fab1bd;
+  --channels-default: #f8e1e5;
 
-  --text-muted: #565f89;
-  --interactive-muted: #55576b;
+  --text-muted: #e2c1c7;
+  --interactive-muted: #ad8c91;
 
-  --header-secondary: #171722;
-  --interactive-hover: #a2a6c2;
-  --interactive-active: #b5bad1;
+  --header-secondary: #e2c1c7;
+  --interactive-hover: #e2c1c7;
+  --interactive-active: #e2c1c7;
 
   /* Background color */
-  --background-primary: #1a1b26;
-  --background-secondary: #171722;
-  --background-secondary-alt: #13131a;
-  --background-tertiary: #16161e;
-  --background-floating: #161620;
-  --background-accent: #434461;
+  --background-primary: #5e3640;
+  --background-secondary: #49292f;
+  --background-secondary-alt: #3b1d24;
+  --background-tertiary: #220f14;
+  --background-floating: #221115;
+  --background-accent: #c5536c;
   --channeltextarea-background: var(--background-secondary);
   --modal-background: var(--background-primary);
-  --background-modifier-hover: #212331c0;
-  --background-modifier-active: #282a3680;
-  --background-modifier-selected: #24263171;
+  --background-modifier-hover: #5e36403b;
+  --background-modifier-active: #5e364058;
+  --background-modifier-selected: #5e364068;
   --toast-background: #5e3640 !important;
   --toast-header: #3b1d24 !important;
   --toast-contents: #49292f !important;
@@ -59,8 +59,8 @@
   --input-background: var(--background-secondary);
 
   /* Scrollbar */
-  --scrollbar-auto-thumb: #2b2b46af;
-  --scrollbar-auto-track: #27273d85;
+  --scrollbar-auto-thumb: var(--background-tertiary);
+  --scrollbar-auto-track: var(--background-secondary-alt);
   --scrollbar-thin-thumb: var(--background-tertiary);
   --scrollbar-thin-track: transparent;
 

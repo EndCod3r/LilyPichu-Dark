@@ -2,7 +2,7 @@
   <img align="left" src="./assets/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="left">TokyoPichu</h3>
-  <p align="left">A remix of a theme from @NYRI4 in the style of Tokyo Night</p>
+  <p align="left">A remix of the LilyPichu theme from @NYRI4 in the style of Tokyo Night</p>
 </div>
 <br/>
 

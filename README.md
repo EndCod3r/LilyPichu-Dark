@@ -4,6 +4,11 @@
   <h3 align="left">TokyoPichu</h3>
   <p align="left">A remix of the LilyPichu theme from @NYRI4 in the style of Tokyo Night</p>
 </div>
+  <br/>
+
+  <a href="https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/EndCod3r/TokyoPichu/tokyopichu.theme.css"><strong>» Theme Preview</strong></a>
+  ・
+  <a href="https://github.com/EndCod3r/TokyoPichu/issues">Report an issue</a>
 <br/>
 
 ## 📥 Installation
